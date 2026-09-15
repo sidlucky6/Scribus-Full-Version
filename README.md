@@ -240,4 +240,4 @@ This repository serves as the official landing page for Scribus. The software is
 **Get the most recent version of Scribus today!**
 
 ---
-**Last updated:** 2026-09-14 21:25:00 UTC
+**Last updated:** 2026-09-15 00:14:13 UTC
